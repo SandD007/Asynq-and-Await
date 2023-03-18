@@ -8,7 +8,6 @@ namespace Asynq_and_Await
         {
             var action = new Actions();
             action.Run();
-            Console.WriteLine("Hello, World!");
         }
     }
 }
